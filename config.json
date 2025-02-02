@@ -1,0 +1,14 @@
+{
+  "params":
+  {
+   "local_server": "True",
+    "local_uri": "mysql://root:@localhost:3306/medical",
+    "proud_uri": "mysql://root:@localhost:3306/medical",
+    "blog_name": "WELCOME",
+    "headname": "MEDICAL SUPPLY MANAGEMENT",
+    "user": "AyaanSakya",
+    "password": "ASDevlopers",
+    "login_image": "aple.jpg"
+
+  }
+}

@@ -3,7 +3,7 @@
   {
    "local_server": "True",
     "local_uri": "mysql://root:@localhost:3306/medical",
-    "proud_uri": "mysql://root:@localhost:3306/medical",
+    "proud_uri": "postgresql://medical_gaod_user:@aSSJKKWdfbeCnUvG0RDEUXSWT4hwJBSy:5432/medical_gaod",
     "blog_name": "WELCOME",
     "headname": "MEDICAL SUPPLY MANAGEMENT",
     "user": "AyaanSakya",

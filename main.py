@@ -17,7 +17,7 @@ if(local_server):
 
 
 else:
-    app.config['SQLALCHEMY_DATABASE_URI'] = params['proud_uri']
+    app.config['SQLALCHEMY_DATABASE_URI'] = os.getenv("DATABASE_URL", params['prod_uri'])
 
 db = SQLAlchemy(app)
 
